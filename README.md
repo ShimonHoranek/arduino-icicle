@@ -10,4 +10,4 @@ I've chosen to use pin D5, but you can use any other digital pwm pin, as long as
 other 2 pins are GND and VCC, which are connected to GND and VIN\
 **code**\
 In the code I use [FastLED](https://github.com/FastLED/FastLED) library\
-You will need to change the code a lot, if you will use different type/number of LEDs (I used 15 LEDs)\
+You will need to change the code a lot, if you will use different type/number of LEDs (I used 15 LEDs)
