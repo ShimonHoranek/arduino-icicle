@@ -1,5 +1,5 @@
 # arduino icicle
-Home-made LED icicle used as a christmas light.\
+Home-made LED icicle used as a christmas light.
 ## Used parts
 * WS2812B adressable LED strip
 * Arduino nano
