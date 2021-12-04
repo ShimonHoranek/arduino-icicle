@@ -9,4 +9,4 @@ You will need adressable LED strip (obviously) and any type of arduino, I used a
 I've chosen to use pin D5, but you can use any other digital pwm pin, as long as you change the code.\
 other 2 pins are GND and VCC, which are connected to GND and VIN\
 **code**\
-In the code I use [FastLED](https://github.com/FastLED/FastLED) library\
+In the code I use [FastLED](https://github.com/FastLED/FastLED) library
